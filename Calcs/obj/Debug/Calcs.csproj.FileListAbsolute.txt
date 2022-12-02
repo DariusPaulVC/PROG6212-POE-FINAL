@@ -1,0 +1,12 @@
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE 2.0\Calcs\bin\Debug\Calcs.dll
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE 2.0\Calcs\bin\Debug\Calcs.pdb
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE 2.0\Calcs\obj\Debug\Calcs.csproj.AssemblyReference.cache
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE 2.0\Calcs\obj\Debug\Calcs.csproj.CoreCompileInputs.cache
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE 2.0\Calcs\obj\Debug\Calcs.dll
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE 2.0\Calcs\obj\Debug\Calcs.pdb
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Part2\TaskTwoFinal\Calcs\bin\Debug\Calcs.dll
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Part2\TaskTwoFinal\Calcs\bin\Debug\Calcs.pdb
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Part2\TaskTwoFinal\Calcs\obj\Debug\Calcs.csproj.AssemblyReference.cache
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Part2\TaskTwoFinal\Calcs\obj\Debug\Calcs.csproj.CoreCompileInputs.cache
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Part2\TaskTwoFinal\Calcs\obj\Debug\Calcs.dll
+C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Part2\TaskTwoFinal\Calcs\obj\Debug\Calcs.pdb
