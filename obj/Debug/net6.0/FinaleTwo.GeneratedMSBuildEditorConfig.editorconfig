@@ -1,0 +1,132 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FinaleTwo
+build_property.RootNamespace = FinaleTwo
+build_property.ProjectDir = C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Final\FinaleTwo\FinaleTwo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dariu\OneDrive\Desktop\2nd Year\2nd semester\PROG6212\POE_Final\FinaleTwo\FinaleTwo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/AspNetUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/AspNetUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/AspNetUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/AspNetUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/AspNetUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Modules/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Modules/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Modules/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Modules/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Modules/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Reminders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtaW5kZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Reminders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtaW5kZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Reminders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtaW5kZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Reminders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtaW5kZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Reminders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVtaW5kZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Semesters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VtZXN0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Semesters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VtZXN0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Semesters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VtZXN0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Semesters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VtZXN0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Semesters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VtZXN0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dariu/OneDrive/Desktop/2nd Year/2nd semester/PROG6212/POE_Final/FinaleTwo/FinaleTwo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4c8jf29tnr
